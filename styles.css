@@ -41,11 +41,6 @@ p {
   padding: 160px 20px;
 }
 
-.about-section {
-  text-align: center;
-  padding: 0;
-}
-
 .hero p {
   font-size: 36px;
   font-weight: bold;
@@ -59,6 +54,7 @@ p {
   line-height: 1.5;
   font-size: 24px;
 }
+
 .about-section {
   padding: 160px 20px;
 }
@@ -111,6 +107,11 @@ p {
 
   .hero {
     padding: 80px 20px;
+  }
+
+  .about-section {
+    text-align: center;
+    padding: 0;
   }
 
   .project-desciption {
